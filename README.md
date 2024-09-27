@@ -11,7 +11,7 @@
 The Library Management System is a Java-based application that allows users to manage books in a library. Users can add books, borrow and return books, and view available books. This project is designed to demonstrate basic object-oriented programming principles and the use of Java collections.
 
 ## Technologies Used
-- Java 21
+- Java 17
 - JUnit 5 for unit testing
 
 ## Features
